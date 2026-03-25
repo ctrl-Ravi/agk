@@ -143,7 +143,7 @@ agk eval semantic-tests.yaml --timeout 200
 cat .agk/reports/eval-report-*.md
 ```
 
-**Learn more**: See [Eval Documentation](docs/eval.md) for detailed guides on strategies, configuration, and best practices.
+**Learn more**: See [Eval Documentation](docs/EVAL.md) for detailed guides on strategies, configuration, and best practices.
 
 ---
 
